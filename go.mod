@@ -10,11 +10,11 @@ require (
 	github.com/golang/protobuf v1.5.4
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/ignite-hq/cli v0.22.0
+	github.com/ignite/cli v0.22.2
 	github.com/spf13/cast v1.4.1
 	github.com/spf13/cobra v1.4.0
 	github.com/stretchr/testify v1.9.0
-	github.com/tendermint/spn v0.2.1-0.20220609194312-7833ecf4454a
+	github.com/tendermint/spn v0.2.1-0.20220610090138-44b136f042c4
 	github.com/tendermint/tendermint v0.34.19
 	github.com/tendermint/tm-db v0.6.7
 	google.golang.org/genproto/googleapis/api v0.0.0-20241113202542-65e8d215514f
